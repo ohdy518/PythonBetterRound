@@ -7,9 +7,9 @@ Improves python's incorrect rounding system
  - `tround()` function works as the same as `round()` function (except for the returning values)
 
 ## Pros: 
- - Easy install: Just drag and drop the file! No other installations are required. 
- - Easy use: Replace all `round()`s with `tround()`s, and you're done. 
- - Lightweight: Less than a kilobyte. 
+ - Easy install: Just drag and drop the file! No other installations are required
+ - Easy use: Replace all `round()`s with `tround()`s, and you're done
+ - Lightweight: Less than a kilobyte
 
 ## Before you download...
- - This module(python file) is licensed via MIT License. Check out the details in the LICENSE file. 
+ - This module(python file) is licensed via MIT License. Check out the details in the LICENSE file
